@@ -1,12 +1,22 @@
-🔍 SQL PROJECTS
+# 📊 SQL Portfolio Projects
 
-This repository demonstrates SQL concepts including data cleaning, string functions, pattern matching, and validation logic. It shows how SQL can be used to validate and categorize structured data.
+This repository contains real-world SQL projects showcasing data cleaning, validation, and business-focused analytics. Each project simulates how data analysts work with messy datasets to derive meaningful insights.
 
-🚀PAN Number Validation using SQL
+## 📂 Projects
 
-This project focuses on cleaning and validating Indian PAN (Permanent Account Number) data using SQL.
-The dataset may contain missing values, duplicates, extra spaces, and incorrect formats.
-The goal is to clean the dataset and classify PAN numbers as Valid PAN or Invalid PAN.
+### 1️⃣ PAN Number Validation Project
+A project focused on cleaning and validating Indian PAN numbers using SQL.
+It includes:
+- 🧹 Data Cleaning: Handling missing values, duplicates, spaces, and case formatting
+- ✅ Format Validation: Ensuring PAN follows the official structure (AAAAA1234A)
+- 🔍 Custom Functions:
+- Check for adjacent repetition
+- Detect sequential characters (e.g., ABCDE, 1234)
+- 📊 Categorisation: Classify PANs into Valid and Invalid
+- 📑 Summary Report:
+- Total records processed
+- Valid PANs
+- Invalid PANs
+- Missing/Incomplete PANs
 
-📂 Project Tasks
-The following steps were performed:
+
