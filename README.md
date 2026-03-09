@@ -20,4 +20,20 @@ It includes:
      - Invalid PANs
      - Missing/Incomplete PANs
 
+### 2️⃣ Zepto E-commerce SQL Data Analyst Project
+A complete portfolio project based on Zepto’s e-commerce inventory dataset.
+
+It includes:
+- 🗄️ Database & Table Creation
+- 🔍 Exploratory Data Analysis (EDA)
+- 🧹 Data Cleaning: Handling nulls, removing invalid entries, converting prices
+- 📊 Business Insights:
+      - Top 10 best-value products
+      - High-MRP products out of stock
+      - Potential revenue by category
+      - Price per gram analysis
+      - Category discount rankings
+      - Inventory weight distribution
+
+
 
